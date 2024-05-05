@@ -1,5 +1,6 @@
 package eora21.demo.redis.operator;
 
+import eora21.demo.redis.domain.XForce;
 import java.util.Objects;
 import java.util.Optional;
 import lombok.RequiredArgsConstructor;

@@ -1,5 +1,6 @@
 package eora21.demo.redis.operator;
 
+import eora21.demo.redis.domain.XForce;
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;

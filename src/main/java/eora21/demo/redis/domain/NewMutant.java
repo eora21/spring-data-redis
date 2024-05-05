@@ -1,4 +1,4 @@
-package eora21.demo.redis.template;
+package eora21.demo.redis.domain;
 
 import java.nio.charset.StandardCharsets;
 import java.util.StringJoiner;

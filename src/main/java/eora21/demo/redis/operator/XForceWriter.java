@@ -1,5 +1,6 @@
 package eora21.demo.redis.operator;
 
+import eora21.demo.redis.domain.XForce;
 import java.util.StringJoiner;
 import lombok.RequiredArgsConstructor;
 import org.springframework.data.redis.core.RedisTemplate;

@@ -1,7 +1,7 @@
 package eora21.demo.redis.config;
 
-import eora21.demo.redis.template.Mutant;
-import eora21.demo.redis.template.NewMutant;
+import eora21.demo.redis.domain.Mutant;
+import eora21.demo.redis.domain.NewMutant;
 import java.nio.charset.StandardCharsets;
 import java.util.Objects;
 import java.util.StringJoiner;

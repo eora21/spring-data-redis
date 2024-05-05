@@ -1,5 +1,7 @@
 package eora21.demo.redis.template;
 
+import eora21.demo.redis.domain.Mutant;
+import eora21.demo.redis.domain.NewMutant;
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;

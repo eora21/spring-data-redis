@@ -1,4 +1,4 @@
-package eora21.demo.redis.repository;
+package eora21.demo.redis.domain;
 
 import lombok.AccessLevel;
 import lombok.AllArgsConstructor;
